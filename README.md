@@ -4,7 +4,7 @@
 🐳![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=Docker&logoColor=white&color=2bbc8a)
 😎![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=2bbc8a)
 👨🏽‍💻![](https://img.shields.io/badge/Editer-Vscode-informational?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
-🎪![](https://img.shields.io/badge/-OBS%20Studio-302E31?style=plastic&logo=obs-studio&logoColor=white)
+🎪![](https://img.shields.io/badge/Best-OBS-informational?style=plastic&logo=obs-studio&logoColor=white&color=2bbc8a)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ## Nobody
