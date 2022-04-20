@@ -8,4 +8,8 @@
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ## Nobody
-### <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 🔐 Bug Code And You <br><br>🤖 Python Java and Go<br><br>😊 The value of life is to find something interesting<br><br>🕊️ Don't think too much<br><br>🙌 Do it
+###  <img align="left" src="/github-metrics.svg" alt="Metrics">🔐 Bug Code And You <br><br>🤖 Python Java and Go<br><br>😊 The value of life is to find something interesting<br><br>🕊️ Don't think too much<br><br>🙌 Do it
+
+***
+<img align="rigth" src="/details.svg" alt="Metrics">
+<img align="left" src="/fullyear.svg" alt="Metrics"><img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
