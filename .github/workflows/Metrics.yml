@@ -14,20 +14,19 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-      - name: Icons
+      - name: Full-year calendar
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
+          filename: fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
       - name: Most used
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
