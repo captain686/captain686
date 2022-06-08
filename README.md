@@ -5,7 +5,7 @@
 😎![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=2bbc8a)
 👨🏽‍💻![](https://img.shields.io/badge/Editer-Vscode-informational?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 🎪![](https://img.shields.io/badge/Best-OBS-informational?style=plastic&logo=obs-studio&logoColor=white&color=2bbc8a)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' height='200px'>
 
 ## Nobody
 ###  <img align="left" src="/github-metrics.svg" alt="Metrics">🔐 Bug Code And You <br><br>🤖 Python Java and Go<br><br>😊 The value of life is to find something interesting<br><br>🕊️ Don't think too much<br><br>🙌 Do it
