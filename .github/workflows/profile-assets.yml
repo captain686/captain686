@@ -17,6 +17,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Sync main with origin
+        run: |
+          set -e
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
       # 1) Metrics -> generated/metrics.svg (static, committed to main)
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
@@ -47,11 +54,6 @@ jobs:
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Ensure we're on an up-to-date main branch (avoid non-fast-forward push failures)
-          git fetch origin main
-          git checkout main
-          git pull --rebase origin main
 
           git add generated/metrics.svg generated/github-contribution-grid-snake.svg
           if git diff --cached --quiet; then
