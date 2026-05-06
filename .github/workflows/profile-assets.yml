@@ -62,4 +62,9 @@ jobs:
           fi
 
           git commit -m "Update generated assets - [Skip GitHub Action]"
+
+          # Remote main may advance while this job is running (e.g. multiple scheduled runs).
+          # Rebase our new commit(s) on top of the latest origin/main, then push fast-forward.
+          git fetch origin main
+          git rebase origin/main
           git push origin main
